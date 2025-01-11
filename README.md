@@ -35,7 +35,7 @@ members. It's a place where people help each other out.
 - [Assets](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view)
 
 
-### <a name="listado-temas">Listado de temas</a>
+## <a name="listado-temas">Listado de temas</a>
 
 - Next.js 15 App Folder Structure
 - Next.js 15 Client Components vs Server Components
