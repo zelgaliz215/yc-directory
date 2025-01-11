@@ -55,6 +55,7 @@ members. It's a place where people help each other out.
 - Next.js 15 unstable after
 
 ## <a name="tech-stack">Tecnologias</a>
+
 - [Next.js 15](https://nextjs.org/docs)
 - [React 19](https://es.react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
