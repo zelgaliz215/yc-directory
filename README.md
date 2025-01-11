@@ -25,6 +25,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 members. It's a place where people help each other out.
 
 ## <a name="fuentes">Fuentes</>
+
 - Canal: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 - Video: [Next.js 15 Crash Course | Build and Deploy a Production-Ready Full Stack App](https://www.youtube.com/watch?v=Zq5fmkH0T78)
 - [Repositorio](https://github.com/adrianhajdin/yc_directory)
