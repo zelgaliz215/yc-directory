@@ -6,9 +6,9 @@ App desarrollada con Next.js Como prueba de concepto
 3. 📃 [Listado de temas](#listado-temas)
 4. ⚙️ [Tecnologias](#tech-stack)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔋 [Features](#features)
-7. 🤸 [Quick Start](#quick-start)
-8. 🔗 [Assets](#links)
+6. 🔗 [Assets](#links)
+7. 🔋 [Features](#features)
+8. 🤸 [Quick Start](#quick-start)
 9. 🚀 [More](#more)
 
 ## 🚨 Tutorial
@@ -477,5 +477,10 @@ export const PLAYLIST_BY_SLUG_QUERY =
   }
 }`);
 ```
-
 </details>
+
+## <a name="links">🔗 Assets</a>
+
+- Fonts and Assets used in the project can be found [here](https://drive.google.com/file/d/1OEFHnEq5pQFP86u8FOBLBBNxKPsbjjqU/view?usp=sharing)
+- [Learn Server Actions](https://youtu.be/FKZAXFjxlJI?feature=shared)
+- [Applicaton Workflow](https://miro.com/app/board/uXjVLT_tMdU=/?share_link_id=580854757703)
