@@ -17,6 +17,7 @@ const SearchForm : React.FC <SearchFormProps> = ( {query} ) => {
 
     return (
         <Form action="/" scroll={false} className='search-form'>
+            {/* Se renderiza el imput que realioza la busqueda del parametro query que se pasa por get con el valor de la query */}
             <input
                 name='query'
                 defaultValue={query}
@@ -24,7 +25,7 @@ const SearchForm : React.FC <SearchFormProps> = ( {query} ) => {
                 placeholder='Search Startups'
             />
             <div className="flex gap-2">
-
+                {/* Se renderiza el el boton de reset */}
                 {query && <SearchFormReset />}
 
                 {/* Boton de busqueda que hace submit al formulario */}
